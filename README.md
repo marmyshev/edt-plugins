@@ -29,7 +29,7 @@
 - [VA для 1Unit](https://github.com/DoublesunRUS/ru.capralow.dt.framework.va) - Vanessa Automation для 1Unit для 1C:Enterprise Development Tools
 - [Поддержка префиксов](https://github.com/DoublesunRUS/ru.capralow.dt.adaptation) - Поддержка префиксов для 1C:Enterprise Development Tools
 
-## Плагины Eclipse подходящие
+## Плагины Eclipse подходящие для 1C:EDT
 
 - [LiClipseText](https://marketplace.eclipse.org/content/liclipsetext) - редактор с поддержкой множества синтаксиса
 - [search-csv-export](https://github.com/marmyshev/search-csv-export) - Экспорт результатов поиска в CSV в кодировке UTF-8
