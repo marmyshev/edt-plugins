@@ -7,7 +7,13 @@
 
 > Здесь разместим идеи most-wanted по лайкам
 
-- ?
+- [Консоль запросов](https://github.com/marmyshev/edt-plugins/issues/12)
+- [Подсветка измененных свойств палитре](https://github.com/marmyshev/edt-plugins/issues/7)
+- [Контроль орфографии в модулях и метаданных](https://github.com/marmyshev/edt-plugins/issues/4)
+- ["Избранное" из моих объектов метаданных в навигаторе 1C](https://github.com/marmyshev/edt-plugins/issues/2)
+- [Плагин контроля реструктуризации БД](https://github.com/marmyshev/edt-plugins/issues/8)
+- [Плагин для перенаправления чтения кода общего модуля и кода модуля формы из epf](https://github.com/marmyshev/edt-plugins/issues/11)
+- [Детализированная подсказка по типу](https://github.com/marmyshev/edt-plugins/issues/9)
 
 ## Плагины фирмы 1С
 
@@ -45,5 +51,5 @@
 - [EcliPaint](https://marketplace.eclipse.org/node/322221)
 - [Image/Picture Viewer](https://marketplace.eclipse.org/node/3571619)
 - [PDE Source Lookup](https://marketplace.eclipse.org/node/2844330)
-
+- [Xtext Tools](https://github.com/OLibutzki/xtext.tools) - Node Model Outline, Semantic Model Outline
 
