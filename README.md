@@ -14,6 +14,7 @@
 - [Плагин контроля реструктуризации БД](https://github.com/marmyshev/edt-plugins/issues/8)
 - [Плагин для перенаправления чтения кода общего модуля и кода модуля формы из epf](https://github.com/marmyshev/edt-plugins/issues/11)
 - [Детализированная подсказка по типу](https://github.com/marmyshev/edt-plugins/issues/9)
+- [Контроль наличия префиксов у метаданных](https://github.com/marmyshev/edt-plugins/issues/13)
 
 ## Плагины фирмы 1С
 
