@@ -55,3 +55,6 @@
 - [PDE Source Lookup](https://marketplace.eclipse.org/node/2844330)
 - [Xtext Tools](https://github.com/OLibutzki/xtext.tools) - Node Model Outline, Semantic Model Outline
 
+## Разработка плагинов в сторонних IDE
+
+- [Разработка 1C:EDT Plugin в IntelliJ IDEA](https://skycorvette.com/knowledges/dccfd1f4-ef50-4242-8355-d62fb3675e13/)
