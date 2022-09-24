@@ -7,13 +7,17 @@
 
 > Здесь разместим идеи most-wanted по лайкам
 
-- [Консоль запросов](https://github.com/marmyshev/edt-plugins/issues/12)
-- [Подсветка измененных свойств палитре](https://github.com/marmyshev/edt-plugins/issues/7)
-- [Контроль орфографии в модулях и метаданных](https://github.com/marmyshev/edt-plugins/issues/4)
+- [Интерфейсы в 1С](https://github.com/marmyshev/edt-plugins/issues/15)
 - ["Избранное" из моих объектов метаданных в навигаторе 1C](https://github.com/marmyshev/edt-plugins/issues/2)
+- [Консоль запросов](https://github.com/marmyshev/edt-plugins/issues/12)
+- [Контроль орфографии в модулях и метаданных](https://github.com/marmyshev/edt-plugins/issues/4)
+- [Подсветка измененных свойств палитре](https://github.com/marmyshev/edt-plugins/issues/7)
 - [Плагин контроля реструктуризации БД](https://github.com/marmyshev/edt-plugins/issues/8)
 - [Плагин для перенаправления чтения кода общего модуля и кода модуля формы из epf](https://github.com/marmyshev/edt-plugins/issues/11)
+- [Контроль орфографии в модулях и метаданных](https://github.com/marmyshev/edt-plugins/issues/4)
+- [Swagger для http-сервисов в 1С и генерация документации API сервисов](https://github.com/marmyshev/edt-plugins/issues/23)
 - [Детализированная подсказка по типу](https://github.com/marmyshev/edt-plugins/issues/9)
+- [Copyright Tool - помощник и контроль авторских прав на код приложений 1С](https://github.com/marmyshev/edt-plugins/issues/20)
 - [Контроль наличия префиксов у метаданных](https://github.com/marmyshev/edt-plugins/issues/13)
 
 ## Плагины фирмы 1С
