@@ -24,7 +24,7 @@
 
 - [1С:Language Tool](https://its.1c.ru/db/edtplugins) - инструмент перевода исходного кода и локализации интерфейса
 - [1C:SSL-support](https://github.com/1C-Company/ssl-support) - поддержка разработки конфигураций на базе БСП
-- [1С:Стандарты разработки V8](https://github.com/1C-Company/v8-code-style) - разработка по стандартам 1С, проверки, иснтрументы
+- [1С:Стандарты разработки V8](https://github.com/1C-Company/v8-code-style) - разработка по стандартам 1С, проверки, инструменты
 - [1cfresh review](https://releases.1c.ru/project/FreshPublic) - плагин проверок для 1С-Фреш
 
 ## Плагины специально для 1C:EDT
