@@ -39,6 +39,7 @@
 - [Помощник ЗУП](https://github.com/DoublesunRUS/ru.capralow.dt.hrm.support) - Помощник ЗУП для 1C:Enterprise Development Tools
 - [VA для 1Unit](https://github.com/DoublesunRUS/ru.capralow.dt.framework.va) - Vanessa Automation для 1Unit для 1C:Enterprise Development Tools
 - [Поддержка префиксов](https://github.com/DoublesunRUS/ru.capralow.dt.adaptation) - Поддержка префиксов для 1C:Enterprise Development Tools
+- [Запуск тестов YAXunit](https://github.com/bia-technologies/edt-test-runner) - Плагин для работы с модульными (unit) тестами в среде разработки EDT
 
 ## Плагины Eclipse подходящие для 1C:EDT
 
