@@ -10,7 +10,9 @@
 https://marmyshev.github.io/edt-plugins/repository/
 ```
 
-Вставьте адрес в помощщник установки плагинов в меню: `Help -> Install New Software... -> Work with:`
+Вставьте адрес в помощщник установки плагинов в меню: 
+
+`Help -> Install New Software... -> Work with:`
 
 > Внимание!
 > 
@@ -18,10 +20,10 @@ https://marmyshev.github.io/edt-plugins/repository/
 
 
 **Устанавливайте плагны по одному!!** Не все плагины могут быть адаптированы под вашу версию 1C:EDT - поэтому 
-рекомендуется устанавливать плагины по череди и проверять работоспособность!
+рекомендуется устанавливать плагины по череди и проверять работоспособность.
 
 
-## Идеи плагинов [в Issues](https://github.com/marmyshev/edt-plugins/issues)
+## Идеи новых плагинов [в Issues](https://github.com/marmyshev/edt-plugins/issues)
 
 Идеи для разработки плагинов для 1C:EDT, платформы 1С:Предериятия и продуктов 1С, интересные плагины Eclipse которые можно/нужно использовать в 1C:EDT.
 
