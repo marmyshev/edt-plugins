@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?compositeMetadataRepository version='1.0.0'?>
+<repository name='All plugins for 1C:EDT'
+    type='org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository' version='1.0.0'>
+  <properties size='1'>
+    <property name='p2.timestamp' value='17069306523'/>
+  </properties>
+  
+  <!-- Внимание!! при добавлении новой строки - нужно обновить size=XX -->
+  <!-- Внимание!! Не забудьте обновить в файле compositeArtifacts.xml -->
+  <children size='14'>
+    <child location='https://marmyshev.gitlab.io/edt-editing/update'/>
+    <child location='https://yansergey.github.io/edt.cf_builder'/>
+    <child location='http://capralow.ru/edt/1unit/latest/'/>
+    <child location='https://otymko.github.io/bslls-connector-for-edt/update/bslls-connector-for-edt/latest/'/>
+    <child location='https://yansergey.github.io/edt.externalDesignerLauncher'/>
+    <child location='http://capralow.ru/edt/unit.framework.va/latest/'/>
+    <child location='https://edt.1c.ru/downloads/releases/plugins/language-tool/'/>
+    <child location='https://bia-technologies.github.io/edt-test-runner/repository/'/>
+    <child location='https://www.liclipse.com/text/updates'/>
+    <child location='https://raw.githubusercontent.com/dbickley/OpenEditors/release/updatesite'/>
+    <child location='https://raw.githubusercontent.com/jabiercoding/eclipaint/master/updatesite/org.eclipaint.site/site.xml'/>
+    <child location='https://32kda.github.io/com.onpositive.pictureviewer/'/>
+    <child location='jar:https://github.com/marmyshev/indent-guide/releases/download/v2.2.5/repo.zip!/'/>
+    <child location='https://xtexttools.libutzki.de/'/>
+  </children>
+</repository>
