@@ -8,7 +8,7 @@
   
   <!-- Внимание!! при добавлении новой строки - нужно обновить size=XX -->
   <!-- Внимание!! Не забудьте обновить в файле compositeArtifacts.xml -->
-  <children size='14'>
+  <children size='15'>
     <child location='https://marmyshev.gitlab.io/edt-editing/update'/>
     <child location='https://yansergey.github.io/edt.cf_builder'/>
     <child location='http://capralow.ru/edt/1unit/latest/'/>
@@ -23,5 +23,6 @@
     <child location='https://32kda.github.io/com.onpositive.pictureviewer/'/>
     <child location='jar:https://github.com/marmyshev/indent-guide/releases/download/v2.2.5/repo.zip!/'/>
     <child location='https://xtexttools.libutzki.de/'/>
+    <child location='https://kovalexey.github.io/EDTContentAssistAutoOpen/master'/>
   </children>
 </repository>
